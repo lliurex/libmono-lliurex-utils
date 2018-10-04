@@ -1,0 +1,9 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: lliurex.utils
+Description: lliurex utils for mono
+Version: 0.2
+Libs: -r:${prefix}/lib/mono/4.0/libmono-lliurex-utils.dll
