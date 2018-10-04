@@ -75,7 +75,6 @@ install: build
 	#find $(CURDIR)/debian/user-mutation-tools/usr/lib/user-mutation-tools -type f -exec chmod a-x {} \;
 	#install -c -m711 debian/user-mutation-tools.sh $(CURDIR)/debian/user-mutation-tools/usr/bin/um-login
 	
-	dllxh_install
 
 # Build architecture-independent files here.
 binary-arch: build install
