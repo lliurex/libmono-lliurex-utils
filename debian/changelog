@@ -1,0 +1,144 @@
+libmono-lliurex-utils (1.0) bionic; urgency=medium
+
+  * Bionic release
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 04 Oct 2018 10:13:53 +0200
+
+libmono-lliurex-utils (0.9.9) xenial; urgency=medium
+
+  * Ported code to xenial
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Thu, 04 Feb 2016 14:35:31 +0100
+
+libmono-lliurex-utils (0.9.8) trusty; urgency=low
+
+  * Trusty build
+
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Wed, 30 Sep 2015 11:28:17 +0100
+
+libmono-lliurex-utils (0.9.7) precise; urgency=low
+
+  * This time, for the right distribution name
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Mon, 29 Oct 2012 11:21:57 +0100
+
+libmono-lliurex-utils (0.9.6) precise; urgency=low
+
+  * First ppa release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Tue, 27 Mar 2012 13:10:59 +0200
+
+libmono-lliurex-utils (0.9.4) precise; urgency=low
+
+  * first pandora release
+
+ -- Hector Garcia Huerta <lliurex_devel1@edu.gva.es>  Fri, 27 Mar 2012 08:18:43 +0100
+
+libmono-lliurex-utils (0.9.3) unstable; urgency=low
+
+  * Fixed for nemo
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 26 Jan 2012 12:11:36 +0100
+
+libmono-lliurex-utils (0.9.1) unstable; urgency=low
+
+  * Fixed for nemo
+
+ -- Jose Carlos Garcia <garcia_josmon@gva.es>  Tue, 17 Jan 2012 12:23:12 +0100
+
+libmono-lliurex-utils (0.9) unstable; urgency=low
+
+  * Uploaders Fixed
+
+ -- Jose Carlos Garcia <garcia_josmon@gva.es>  Tue, 17 Jan 2012 11:43:34 +0100
+
+libmono-lliurex-utils (0.8) unstable; urgency=low
+
+  * WiP version
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Mon, 06 Jun 2011 12:22:15 +0200
+
+libmono-lliurex-utils (0.7) unstable; urgency=low
+
+  * Second version for marty
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Fri, 03 Jun 2011 11:02:46 +0200
+
+libmono-lliurex-utils (0.6) lucid; urgency=low
+
+  * First version for marty 
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Fri, 03 Jun 2011 11:01:21 +0200
+
+libmono-lliurex-utils (0.4.5) unstable; urgency=low
+
+  * dummy upgrade
+
+ -- Hector Garcia Huerta <lliurex_devel1@edu.gva.es>  Thu, 07 Oct 2010 11:35:14 +0200
+
+libmono-lliurex-utils (0.4.4) unstable; urgency=low
+
+  * Work in progress on Copy files dialog. Trying to close it when it has finished.
+
+ -- Hector Garcia Huerta <lliurex_devel1@edu.gva.es>  Mon, 04 Oct 2010 10:29:21 +0200
+
+libmono-lliurex-utils (0.4.3) unstable; urgency=low
+
+  * Added CopyFiles functionality to show a progress bar when copying
+
+ -- Hector Garcia Huerta <lliurex_devel1@edu.gva.es>  Thu, 10 Jun 2010 12:41:23 +0200
+
+libmono-lliurex-utils (0.4.2) unstable; urgency=low
+
+  * Graphical utils have been removed as they really were useless 
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Thu, 10 Jun 2010 12:35:39 +0200
+
+libmono-lliurex-utils (0.4.1.1) unstable; urgency=low
+
+  * minor makefile fix 
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Thu, 10 Jun 2010 12:05:50 +0200
+
+libmono-lliurex-utils (0.4) unstable; urgency=low
+
+  * Added a graphic combobox item 
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Thu, 10 Jun 2010 11:48:15 +0200
+
+libmono-lliurex-utils (0.3.1.1) unstable; urgency=low
+
+  * Minor fix in showvars 
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Wed, 09 Jun 2010 13:44:13 +0200
+
+libmono-lliurex-utils (0.3.1) unstable; urgency=low
+
+  * Fixed Makefile minor fix
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Wed, 09 Jun 2010 12:51:29 +0200
+
+libmono-lliurex-utils (0.3) unstable; urgency=low
+
+  *  Created a lliurex variable manager
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Wed, 09 Jun 2010 12:35:35 +0200
+
+libmono-lliurex-utils (0.2) unstable; urgency=low
+
+  * fixed cli version
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Wed, 14 Apr 2010 08:49:57 +0200
+
+libmono-lliurex-utils (0.1.5) unstable; urgency=low
+
+  * Coming from kripton
+  * Minor control fixes
+
+ -- Enrique Medina Gremaldos <lliurex_devel4@edu.gva.es>  Fri, 09 Apr 2010 09:59:30 +0200
+
+libmono-lliurex-utils (0.1) unstable; urgency=low
+
+  * Initial Release
+
+ -- Angel Berlanas Vicente <lliurex_devel2@edu.gva.es>  Thu, 14 Jan 2010 12:00:32 +0100
